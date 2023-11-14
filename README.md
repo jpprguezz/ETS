@@ -1,2 +1,2 @@
-# ETS_Github
+# ETS
 ## Repositorio para la asignatura de ETS
