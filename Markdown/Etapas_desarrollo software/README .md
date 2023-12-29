@@ -27,7 +27,7 @@ Después de haber realizado pruebas, el software se lanza con el fin de que los 
 
 6. Mantenimiento 
 
-El proceso constante por el cuál el software debe ser continuamnete actualizado, esto para poder llevar un mantenimiento y poder tanto añadir nuevo contenido como arreglar errores.
+El proceso constante por el cuál el software debe ser continuamente actualizado, esto para poder llevar un mantenimiento y poder tanto añadir nuevo contenido como arreglar errores.
 
 
 
@@ -62,3 +62,11 @@ Los equipos deben tener en cuenta los cambios que se solicitan por parte de los 
 7. Retrospectiva 
 
 Al final de cada iteración, se debe realizar una retrospectiva para evaluar el estado y proceso del software con el fin de mejorar y corregir fallos, lo que contribuye a la mejora constante del equipo.
+
+## ¿Cuál crees que es el método más adecuado para realizar un control de ventas?
+
+En mi opinión, el Método Tradicional es el más adecuado, de cara a un programa el cual vaya a necesitar soporte continuo. Esto debido a que es mucho más sencillo sacar un  productor final el cual sea mejorado de forma continuamente.
+
+## ¿Cuál es el método más caro de implementar? Justifica la respuesta
+
+El método más caro diría que el el Metodo Ágil, debido a que sería iterar y sacar al mercado versiones de forma continua, lo cual a la larga, es un proceso caro.
