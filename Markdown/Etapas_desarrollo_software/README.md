@@ -17,7 +17,7 @@
 
 ## Codificación y compilación 
 
-    La codificación hace que los programadores traduzcan los diseños detallados en código. Por otro lado, la compilación convierte ese código fuente en un programa ejecutable para la máquina o el sistema objetivo.
+La codificación hace que los programadores traduzcan los diseños detallados en código. Por otro lado, la compilación convierte ese código fuente en un programa ejecutable para la máquina o el sistema objetivo.
 
 ![](https://imgs.search.brave.com/h-aYJxX36Tr3nhkChXLYzDaPlpBJTbqytvHB0RUQFCA/rs:fit:500:0:0/g:ce/aHR0cDovL2RlY29u/Y2VwdG9zLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxMy8x/Mi9jb25jZXB0by1k/ZS1jb21waWxhY2lv/bi5qcGc)
 
