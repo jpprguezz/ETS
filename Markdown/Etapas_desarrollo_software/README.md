@@ -11,7 +11,7 @@
 ![](https://knowgarden.files.wordpress.com/2014/12/requisitos.jpg)
 
 ## Diseño
-    Fase esencial que comprende el diseño de alto nivel, estableciendo arquitectura general, diseño detallado, componentes específicos y estructuras de datos. También incluye diseño de interfaz de ususario, etc.
+Fase esencial que comprende el diseño de alto nivel, estableciendo arquitectura general, diseño detallado, componentes específicos y estructuras de datos. También incluye diseño de interfaz de ususario, etc.
 
 ![](https://www.certus.edu.pe/blog/wp-content/uploads/2020/02/por-que-estudiar-desarrollo-software-portada.jpg)
 
@@ -32,11 +32,11 @@ La codificación hace que los programadores traduzcan los diseños detallados en
 ![](https://imgs.search.brave.com/6y_DzB9c9q65zQSGSqTIs_yLqY7OY3lGsPdOws0s-dc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9teXNl/cnZlcm5hbWUuY29t/L2ltZy9vdGhlci82/NC93aGF0LWlzLXN5/c3RlbS1pbnRlZ3Jh/dGlvbi10ZXN0aW5n/LTIucG5n)
 
 ### Mantenimiento
-    Se refiere a la fase del ciclo de vida del software que se ocupa de realizar actualizaciones, correcciones de errores, mejoras y cambios necesarios en una aplicación después de su lanzamiento.
+Se refiere a la fase del ciclo de vida del software que se ocupa de realizar actualizaciones, correcciones de errores, mejoras y cambios necesarios en una aplicación después de su lanzamiento.
 
 ![](https://imgs.search.brave.com/g3of6Yx8IpLveAYhyVoFpvkhqYWMfRxtm8k_gvpaCfw/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJhY3R0YWwuY29t/L2hzLWZzL2h1YmZz/L0ZyYWN0dGFsJTIw/V2Vic2l0ZSUyMDIw/MjEvbGFuZGluZy9p/bWFnZW5lcy9wbGFu/LWRlLW1hbnRlbmlt/aWVudG8vSW5mb2dy/YWZpYS1QbGFuLWRl/LW1hbnRlbmltaWVu/dG8tZW4tOC1wYXNv/cy53ZWJwP3dpZHRo/PTEyMDAmaGVpZ2h0/PTgwMCZuYW1lPUlu/Zm9ncmFmaWEtUGxh/bi1kZS1tYW50ZW5p/bWllbnRvLWVuLTgt/cGFzb3Mud2VicA)
 
 ### Documentación 
-    Se refiere a la creación y mantenimiento de registros escritos que describen diversos aspectos del software. Comprende algunos tipos como: de requisitos, diseño, código fuente, usuario, etc.
+Se refiere a la creación y mantenimiento de registros escritos que describen diversos aspectos del software. Comprende algunos tipos como: de requisitos, diseño, código fuente, usuario, etc.
 
 ![](https://imgs.search.brave.com/Nq_KzHqBZ4aYJTGT414LaIx2enESoQf579cO6OIi1gY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWct/YXdzLmVob3djZG4u/Y29tLzc1MHg1MDAv/cGhvdG9zLmRlbWFu/ZHN0dWRpb3MuY29t/LzE4NC8yMDUvZm90/b2xpYV8xMjk2MDM4/X1hTLmpwZw)
