@@ -40,3 +40,7 @@ Se refiere a la fase del ciclo de vida del software que se ocupa de realizar act
 Se refiere a la creación y mantenimiento de registros escritos que describen diversos aspectos del software. Comprende algunos tipos como: de requisitos, diseño, código fuente, usuario, etc.
 
 ![](https://imgs.search.brave.com/Nq_KzHqBZ4aYJTGT414LaIx2enESoQf579cO6OIi1gY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWct/YXdzLmVob3djZG4u/Y29tLzc1MHg1MDAv/cGhvdG9zLmRlbWFu/ZHN0dWRpb3MuY29t/LzE4NC8yMDUvZm90/b2xpYV8xMjk2MDM4/X1hTLmpwZw)
+
+## Video
+
+[Video eplicativo de las etapas](https://www.youtube.com/watch?v=uxlOPJC3NzY&pp=ygUgZmFzZXMgZGUgZGVzYXJyb2xsbyBkZSBzb2Z0d2FyZSA%3D)
