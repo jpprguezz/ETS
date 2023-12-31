@@ -2,10 +2,10 @@
 
 ## Analisis de requisitos
 
-- #### Funcionales: 
+- #### funcionales: 
     Son una parte importante del desarrollo de software. Son las características concretas que requiere un programa para satisfacer las necesidades de los usuarios.
 
-- #### No Funcionales:
+- #### No funcionales:
     Estos, a diferencia, de los analisis funcionales, se centran en las características del sistema como cualidades y características operativas. 
 
 ![](https://knowgarden.files.wordpress.com/2014/12/requisitos.jpg)
