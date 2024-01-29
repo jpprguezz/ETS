@@ -3,6 +3,7 @@
 ![Alt text](image.png)
 
 ### Actor/Actores
+
 |  Actor | Administrador |
 |---|---|
 | Descripción  | El administrador es el encargado de gestionar y controlar el funcionamiento de una aplicación en este caso, relacion con el transporte datos además de control de usuarios|
@@ -14,10 +15,11 @@
 |Fecha | 27/01/2024 |
 
 ### Casos de Uso
+
 |  Caso de Uso | Definir medio de transporte  |
 |---|---|
 | Fuentes  | Documento Transport App  |
-| Actor  | Administrados |
+| Actor  | Administrador |
 | Descripción | Permite al Administrador el poder crear u modificar nuevos medios de transporte para su uso  |
 | Flujo básico | El administrador entrar en el sistema a traves del inicio de sesión. Introduce los datos del nuevo medio, como nombre, capacidad, etc. Confirma estos datosa añadidos |
 | Pre-condiciones | Se necesita que el administrador haya iniciado sesión en el sistema  |  
