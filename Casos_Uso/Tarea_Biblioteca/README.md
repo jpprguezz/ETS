@@ -1,6 +1,6 @@
 # Casos de Uso (Biblioteca)
 
-![Alt text](Screenshot_2-1.png)
+![Alt text](Screenshot_2.png)
 
 ### Actor/Actores
 
