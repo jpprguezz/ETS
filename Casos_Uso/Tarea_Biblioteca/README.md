@@ -64,4 +64,4 @@
 | Requerimientos | El libro debe ser devuelto  |
 | Notas |   |
 | Autor  | José Manuel Peña Rodríguez |
-| Fecha | 28/01/2024 |
+| Fecha | 28/01/2024 | 
