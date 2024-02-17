@@ -12,7 +12,7 @@
 | Referencias | "Buscar Vuelo", "Reservar Vuelo" (debido a su relación directa con el Agente de Reservas) |   
 | Notas | Acceso a todos los datos de un viaje |
 | Autor  | José Manuel Peña Rodríguez |
-|Fecha |14/01/2024 |
+|Fecha |01/02/2024 |
 
 |  Actor | Agente de Reservas |
 |---|---|
@@ -22,7 +22,7 @@
 | Referencias | "Buscar Vuelo", "Reservar Vuelo" (debido a la conexión directa con el Pasajero) |   
 | Notas |  |
 | Autor  | José Manuel Peña Rodríguez |
-|Fecha | 14/01/2024 |
+|Fecha | 01/02/2024 |
 
 
 ### Casos de Uso
