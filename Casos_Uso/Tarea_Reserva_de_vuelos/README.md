@@ -7,7 +7,7 @@
 |  Actor | Pasajero |
 |---|---|
 | Descripción  | Puede ordenar tantos viajes como desee  |
-| Características  | Puede buscar entre multiplos vuelos en la base de datos, asi como elegir las características que desea para estos (precio, día, etc.) |
+| Características  | Puede buscar entre multiples vuelos en la base de datos, asi como elegir las características que desea para estos (precio, día, etc.) |
 | Relaciones | Interactua con "Buscar Vuelo", "Reservar Vuelo" y "Cancelar Vuelo" |
 | Referencias | "Buscar Vuelo", "Reservar Vuelo" (debido a su relación directa con el Agente de Reservas) |   
 | Notas | Acceso a todos los datos de un viaje |
