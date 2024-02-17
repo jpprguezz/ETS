@@ -2,6 +2,8 @@
 
 ![alt text](image-1.png)
 
+### Actor/Actores
+
 |  Actor | Administrador|
 |---|---|
 | Descripción  | Aquel que controla el flujo de todas las acciones que se realizan en el cajero |
