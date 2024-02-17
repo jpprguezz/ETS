@@ -10,7 +10,7 @@
 | Características  | Pueden buscar libros que sean pedidos por el Usuario, a traves de ciertos filtros de busqueda, asi como que pueden prestarlos |
 | Relaciones | Interactuan con "Prestar Libro", lo cual lo conecta con el Usuario, además de "Devolver Libro".  |
 | Referencias | Prestar Libro, Devolver libro (debido a su unión con el Usuario)  |   
-|  Notas | Acceso a los datos de la biblioteca  |
+| Notas | Acceso a los datos de la biblioteca  |
 | Autor  | José Manuel Peña Rodríguez |
 |Fecha | 28/01/2024 |
 
