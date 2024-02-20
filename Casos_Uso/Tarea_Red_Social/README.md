@@ -1,4 +1,4 @@
-# # Casos de Uso (Red Social)
+ # Casos de Uso (Red Social)
 
 ![alt text](image.png)
 
