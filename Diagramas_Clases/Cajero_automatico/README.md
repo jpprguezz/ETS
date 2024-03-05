@@ -1,0 +1,1 @@
+![alt text](Cajero_automatico.drawio(3).png)
