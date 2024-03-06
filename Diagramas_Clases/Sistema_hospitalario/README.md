@@ -1,0 +1,1 @@
+![alt text](Sistema_Hospitalario.drawio.png)
