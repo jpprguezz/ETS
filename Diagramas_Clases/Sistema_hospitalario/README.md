@@ -1,1 +1,1 @@
-![alt text](Sistema_Hospitalario.drawio.png)
+![alt text](<Sistema_Hospitalario.drawio (2).png>)
