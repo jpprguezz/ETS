@@ -1,1 +1,1 @@
-![alt text](Reserva_vuelo.drawio.png)
+![alt text](Cajero_automatico.drawio(3)(1)(1).png)
