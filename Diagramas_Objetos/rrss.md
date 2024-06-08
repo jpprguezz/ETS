@@ -1,0 +1,1 @@
+![alt text](diagrama-objeto-rrss.drawio.png)
