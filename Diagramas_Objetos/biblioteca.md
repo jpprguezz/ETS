@@ -1,0 +1,1 @@
+![alt text](diagrama-objeto-biblioteca.drawio.png)
