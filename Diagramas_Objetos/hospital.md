@@ -1,0 +1,1 @@
+![alt text](diagrama-objeto-hospital.drawio.png)
