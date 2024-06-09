@@ -15,7 +15,7 @@ def square() -> Square:
 
 def test_initiate_car(car: Car):
     assert not car.engine_status
-    car.toggle_engine()
+    car.initiate_car()
     assert car.engine_status
 
 def test_triangle_area(triangle: Triangle):
