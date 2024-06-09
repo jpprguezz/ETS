@@ -1,1 +1,0 @@
-![alt text](diagrama-paquete-rrss.drawio.png)

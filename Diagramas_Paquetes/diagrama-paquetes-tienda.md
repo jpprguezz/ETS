@@ -1,1 +1,0 @@
-![alt text](diagrama-objeto-tienda.drawio.png)
