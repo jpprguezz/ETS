@@ -1,0 +1,1 @@
+![alt text](diagrama-paquetes-hospital.drawio.png)
