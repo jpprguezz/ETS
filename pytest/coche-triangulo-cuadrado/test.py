@@ -2,15 +2,15 @@ import pytest
 from classes import Car, Triangle, Square
 
 @pytest.fixture
-def my_car() -> Car:
+def car() -> Car:
     return Car('Ford', 'Explorer', 'Brown')
 
 @pytest.fixture
-def my_triangle() -> Triangle:
+def triangle() -> Triangle:
     return Triangle(5, 10)
 
 @pytest.fixture
-def my_square() -> Square:
+def square() -> Square:
     return Square(10)
 
 def test_car_engine(my_car: Car):
