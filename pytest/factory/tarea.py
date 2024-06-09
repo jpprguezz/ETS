@@ -1,6 +1,15 @@
-class Vehiculo:
-    def conducir(self):
+class VehiculoGenerator:
+    def create_vehicule(self):
         pass
+
+class CocheGenerator(VehiculoGenerator):
+    pass
+
+class BicicletaGenerator(VehiculoGenerator):
+    pass
+
+class Vehiculo:
+    pass
 
 class Coche(Vehiculo):
     def conducir(self):
@@ -8,11 +17,6 @@ class Coche(Vehiculo):
 
 class Bicicleta(Vehiculo):
     def conducir(self):
-        pass
-
-class VehiculoFactory:
-    @staticmethod
-    def crear_vehiculo(tipo_vehiculo):
         pass
 
 
