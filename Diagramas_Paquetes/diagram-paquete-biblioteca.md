@@ -1,0 +1,1 @@
+![alt text](diagrama-paquete-biblioteca.drawio.png)
