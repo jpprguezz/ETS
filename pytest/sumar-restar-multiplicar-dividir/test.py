@@ -1,6 +1,6 @@
 import pytest
 
-from calculator import sum, sub, mul, div, pow
+from operations import sum, sub, mul, div, pow
 
 @pytest.mark.parametrize("a,b,expected_result", [(2, 4, 6), (3, 1, 4), (9, 2, 11)])
 def test_sum(a, b, expected_result):
