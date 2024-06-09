@@ -1,7 +1,4 @@
-from abc import ABC, abstractmethod
-
-class Vehiculo(ABC):
-    @abstractmethod
+class Vehiculo:
     def conducir(self):
         pass
 
