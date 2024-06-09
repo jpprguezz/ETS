@@ -13,7 +13,7 @@ def triangle() -> Triangle:
 def square() -> Square:
     return Square(10)
 
-def test_car_engine(car: Car):
+def test_initiate_car(car: Car):
     assert not car.engine_status
     car.toggle_engine()
     assert car.engine_status
