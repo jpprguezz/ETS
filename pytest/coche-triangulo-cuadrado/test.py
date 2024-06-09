@@ -1,5 +1,5 @@
 import pytest
-from classes import Car, Triangle, Square
+from tarea import Car, Triangle, Square
 
 @pytest.fixture
 def car() -> Car:
@@ -13,13 +13,13 @@ def triangle() -> Triangle:
 def square() -> Square:
     return Square(10)
 
-def test_car_engine(my_car: Car):
-    assert not my_car.engine_status
-    my_car.toggle_engine()
-    assert my_car.engine_status
+def test_car_engine(car: Car):
+    assert not car.engine_status
+    car.toggle_engine()
+    assert car.engine_status
 
-def test_triangle_area(my_triangle: Triangle):
-    assert my_triangle.area == 25
+def test_triangle_area(triangle: Triangle):
+    assert triangle.area == 25
 
-def test_square_perimeter(my_square: Square):
-    assert my_square.perimeter == 40
+def test_square_perimeter(square: Square):
+    assert square.perimeter == 40
